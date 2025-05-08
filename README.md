@@ -1,16 +1,18 @@
-# Project Name
+# Linear Regression Practice
 
-> A starter template for Python and Power BI projects.
+> Goal: predict the price of rent in the fictitious city of Fakeville.
 
 ## Data
 
-https://#
+[Click here to download](https://github.com/ecdedios/linear-regression-practice/blob/main/data/fakeville_rent.csv)
 
 ## Usage
 
 Some technologies used:
 
 - python
+- jupyter notebook
+- pandas
 
 To see the project in action, run the notebooks or scripts.
 
@@ -26,11 +28,10 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/ecdedios/data-project-starter/fork>)
+1. Fork it (<https://github.com/ecdedios/linear-regression-practice/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 May 7, 2025
-g
